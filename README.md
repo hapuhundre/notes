@@ -15,7 +15,11 @@ https://gitbook.cn/gitchat/activity/5c2340c5ef105b18c8f7a048
 30 分钟搭建空气质量检测仪产品原型  
 https://gitbook.cn/gitchat/activity/5c2f1f03d294ce254aa6fef7
 
+JavaScript on Things  
+https://www.manning.com/books/javascript-on-things  
 
+### iot awesome list
+https://github.com/HQarroum/awesome-iot
 
 
 Do not upload any file from working PC of BYD.
