@@ -1,7 +1,7 @@
 # TO DO list
 [] 下载AirSim跑一下 截图两张
 [] 查阅下Carla资料 截图1张
-[] 查询SIL资料或论文，写一写文字
+[] 查询SIL资料或论文，写一写文字https://github.com/lgsvl/simulator
 [] 百度地图API程序学习与调试，跑一下，截图两张
 
 
