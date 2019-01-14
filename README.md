@@ -1,4 +1,5 @@
 # TO DO list
+- [ ] EDA(FPGA)课程rush掉 https://www.icourse163.org/learn/HIT-1003359013?tid=1003590011#/learn/content
 - [ ] 下载AirSim跑一下 截图两张
 - [ ] 查阅下Carla资料 截图1张
 - [ ] 查询SIL资料或论文，写一写文字https://github.com/lgsvl/simulator
