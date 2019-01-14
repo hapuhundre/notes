@@ -13,6 +13,9 @@ https://blog.csdn.net/wanzhen4330/article/details/83868385
 # ROS
 https://industrial-training-master.readthedocs.io/en/latest/
 
+MAV planning tools using voxblox as the map representation.  
+https://github.com/ethz-asl/mav_voxblox_planning
+
 # IoT
 环境监控场景的 IoT 物联网开发实战  
 https://gitbook.cn/gitchat/activity/5c2340c5ef105b18c8f7a048  
