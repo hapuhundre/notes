@@ -31,3 +31,9 @@ https://github.com/HQarroum/awesome-iot
 
 
 Do not upload any file from working PC of BYD.
+
+# Coding and Thinking
+
+**实战组合式设计**
+不使用编程语言的正则表达式库，实现一个基于特定语义规则的正则表达式引擎，对用户提供基本的 match 和 search 接口
+https://gitbook.cn/gitchat/activity/5bc2ab0b54567e7a469a1018
