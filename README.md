@@ -14,7 +14,9 @@
 - [x] 百度地图API程序学习与调试，跑一下，截图两张
 
 
-
+## 百度地图轨迹线
+百度地图jsAPI实时画出运行轨迹，车头实时指向行驶方向，设置角度偏移
+https://blog.csdn.net/skywqnan/article/details/79036262
 
 读取本地坐标文件，在百度地图画运动轨迹（2018新华三“物联网终端行为分析”第三题）
 https://blog.csdn.net/wanzhen4330/article/details/83868385
