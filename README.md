@@ -35,6 +35,8 @@ https://gitbook.cn/gitchat/activity/5c2f1f03d294ce254aa6fef7
 JavaScript on Things  
 https://www.manning.com/books/javascript-on-things  
 
+book: IoT Projects
+https://www.packtpub.com/application-development/internet-things-programming-projects
 ### iot awesome list
 https://github.com/HQarroum/awesome-iot
 
