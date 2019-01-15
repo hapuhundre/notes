@@ -8,14 +8,17 @@
 3、课程中涉及很多知识细节，这些内容都要求记住吗？  
 该课程涉及知识细节很多，每个内容若详细介绍都可以是一门课程，但课程的目标是培养学习者的实践能力，不要求学习者对于每一知识细节都死记硬背，学习者只需知道，在具体工程实践中若遇到问题，该如何查找到相关知识及其具体用法。  
 - [ ] 项目计划书
+
 - [ ] read it and search more https://https:www.matlabexpo.com/cn/2018/proceedings/proceedings.html
 
 ## 论文 & Patent
 > - one by one, show your best.  
  - do more, think deeper.
 
-**车道线检测**
-
+**论文1 车道线检测与偏离预警/车道保持**
+~参考论文：Towards End-to-End Lane Detection: an Instance Segmentation Approach~
+先总结udacity工作，结合Matlab模型，给出代码生成
+先出结果，后撰写论文
 
 
 **专利2 一种的系统**
