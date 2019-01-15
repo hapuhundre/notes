@@ -69,6 +69,9 @@ https://blog.csdn.net/wanzhen4330/article/details/83868385
 # ROS
 https://industrial-training-master.readthedocs.io/en/latest/
 
+ROS一些困难与建议
+https://www.zhihu.com/question/296233185
+
 MAV planning tools using voxblox as the map representation.  
 https://github.com/ethz-asl/mav_voxblox_planning
 
