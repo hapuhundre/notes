@@ -13,7 +13,7 @@
 
 ## 论文 & Patent
 > - one by one, show your best.  
- - do more, think deeper.
+> - do more, think deeper.
 
 **论文1 车道线检测与偏离预警/车道保持**
 ~参考论文：Towards End-to-End Lane Detection: an Instance Segmentation Approach~
