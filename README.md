@@ -7,7 +7,7 @@
 
 
 
-- [ ] EDA(FPGA)课程rush掉 https://www.icourse163.org/learn/HIT-1003359013?tid=1003590011#/learn/content
+- [ ] ~EDA(FPGA)课程rush掉https://www.icourse163.org/learn/HIT-1003359013?tid=1003590011#/learn/content~
 - [ ] 下载AirSim跑一下 截图两张
 - [ ] 查阅下Carla资料 截图1张   
 - [x] ~查询SIL资料或论文，写一写文字https://github.com/lgsvl/simulator~  
@@ -32,11 +32,14 @@ https://gitbook.cn/gitchat/activity/5c2340c5ef105b18c8f7a048
 30 分钟搭建空气质量检测仪产品原型  
 https://gitbook.cn/gitchat/activity/5c2f1f03d294ce254aa6fef7
 
-JavaScript on Things  
+book: JavaScript on Things  
 https://www.manning.com/books/javascript-on-things  
 
-book: IoT Projects
+book: IoT Projects  
 https://www.packtpub.com/application-development/internet-things-programming-projects
+
+book list: packthub iot books  
+https://search.packtpub.com/?sortBy=prod-packt-main-MostRecent&refinementList%5Breleased%5D%5B0%5D=Available&refinementList%5Bcategory%5D%5B0%5D=IoT%20%26%20Hardware
 ### iot awesome list
 https://github.com/HQarroum/awesome-iot
 
