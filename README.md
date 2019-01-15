@@ -57,6 +57,12 @@ https://search.packtpub.com/?sortBy=prod-packt-main-MostRecent&refinementList%5B
 ### iot awesome list
 https://github.com/HQarroum/awesome-iot
 
+### Embedded System & RTOS
+
+### Front end
+Front-End Developer Handbook 2018
+https://https:www.matlabexpo.com/cn/2018/proceedings/proceedings.html
+
 
 Do not upload any file from working PC of BYD.
 
