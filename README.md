@@ -9,6 +9,12 @@
 该课程涉及知识细节很多，每个内容若详细介绍都可以是一门课程，但课程的目标是培养学习者的实践能力，不要求学习者对于每一知识细节都死记硬背，学习者只需知道，在具体工程实践中若遇到问题，该如何查找到相关知识及其具体用法。  
 - [ ] 项目计划书
 
+## 论文 & Patent
+AEB with matlab
+https://ww2.mathworks.cn/help/driving/examples/sensor-fusion-using-synthetic-radar-and-vision-data.html
+https://ww2.mathworks.cn/help/driving/examples/radar-signal-simulation-and-processing-for-automated-driving.html
+https://ww2.mathworks.cn/help/driving/examples/model-radar-sensor-detections.html
+
 - [ ] ~EDA(FPGA)课程rush掉https://www.icourse163.org/learn/HIT-1003359013?tid=1003590011#/learn/content~ 
 - [x] ~查询SIL资料或论文，写一写文字https://github.com/lgsvl/simulator~  
 - [x] 百度地图API程序学习与调试，跑一下，截图两张
