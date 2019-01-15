@@ -1,6 +1,6 @@
 # TO DO list
 - [ ] Web编程 HTML&CSS 
-参考教材： Web programming step by step, Marty Stepp, University of Washington；
+> 参考教材： Web programming step by step, Marty Stepp, University of Washington；
 > 1、该课程跟其他类似课程的最大区别是什么？  
 该课程每章都以案例驱动，围绕案例展开相关知识的学习。每章学习完成后，学习者应能利用所学知识对案例进行实现；课程的目标在于培养学习者的工程实践能力，因此除案例驱动外，课程将学习者的这种能力摆在首位，在结构上出现了“章案例+综合案例”这种形式；在内容上，课程与其他课程的不同之处在于，不仅介绍了Web程序设计所需要的前台技术，而且还对服务器及后台技术作了详细介绍，给学习者一个关于Web程序设计的整体架构。  
 2、课程中有两种技术方案，每个都必须学吗？  
