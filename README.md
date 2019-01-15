@@ -11,7 +11,7 @@
 
 - [ ] read it and search more https://https:www.matlabexpo.com/cn/2018/proceedings/proceedings.html
 
-## 论文 & Patent
+### 论文 & Patent
 > - one by one, show your best.  
 > - do more, think deeper.
 
@@ -28,7 +28,7 @@ https://ww2.mathworks.cn/help/driving/examples/sensor-fusion-using-synthetic-rad
 https://ww2.mathworks.cn/help/driving/examples/radar-signal-simulation-and-processing-for-automated-driving.html
 https://ww2.mathworks.cn/help/driving/examples/model-radar-sensor-detections.html
 
-## done list  
+### done list  
 - [ ] ~EDA(FPGA)课程rush掉https://www.icourse163.org/learn/HIT-1003359013?tid=1003590011#/learn/content~ 
 - [x] ~查询SIL资料或论文，写一写文字https://github.com/lgsvl/simulator~  
 - [x] 百度地图API程序学习与调试，跑一下，截图两张
@@ -38,7 +38,7 @@ https://ww2.mathworks.cn/help/driving/examples/model-radar-sensor-detections.htm
 内容：1.对车辆道路移植时需要重新标定传感器问题提出解决策略；2.针对特殊场景行驶受限问题提出控制方案；3.开发行车轨迹、乘客监控等简单物联网应用.
 意义：1.建立自动驾驶系统硬件批量部署、硬件在环测试能力，降低开发成本；2.可针对不同应用场景及客户需求定制开发自动驾驶客车，有利于市场推广.
 
-## 百度地图轨迹线
+### 百度地图轨迹线
 百度地图jsAPI实时画出运行轨迹，车头实时指向行驶方向，设置角度偏移
 https://blog.csdn.net/skywqnan/article/details/79036262
 
