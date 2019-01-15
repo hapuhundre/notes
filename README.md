@@ -11,9 +11,14 @@
 - [ ] read it and search more https://https:www.matlabexpo.com/cn/2018/proceedings/proceedings.html
 
 ## 论文 & Patent
+> - one by one, show your best.  
+ - do more, think deeper.
+
 **车道线检测**
 
-**专利2 一种的系统
+
+
+**专利2 一种的系统**
 
 **AEB with matlab**  
 https://ww2.mathworks.cn/help/driving/examples/sensor-fusion-using-synthetic-radar-and-vision-data.html
