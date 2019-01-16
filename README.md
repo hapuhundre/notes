@@ -1,3 +1,5 @@
+> Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
+
 # TO DO list
 - [ ] 使用基于模型的设计方法开发混合动力总成系统 - 视频 - MATLAB & Simulink  
 https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrain-systems-82510.html?s_tid=srchtitle
