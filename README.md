@@ -1,24 +1,6 @@
 # TO DO list
-- [ ] 项目计划书  
-**项目简介**  
-描述市场定位、销售区域、技术亮点、更改范围、立项背景等  
-**应用范围**  
-**项目技术参数**  
-
-|内容|要求|
-|--|--|
-| | |
-| | |
-| | |  
-
-**项目任务分工**  
-
-|序号|部门|职责|
-|--|--|--|
-|1| | |
-|2| | |
-|3| | |
-
+- [ ] 使用基于模型的设计方法开发混合动力总成系统 - 视频 - MATLAB & Simulink  
+https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrain-systems-82510.html?s_tid=srchtitle
 
 - [ ] Web编程 Intro & HTML & CSS 
 > 参考教材： Web programming step by step, Marty Stepp, University of Washington  
@@ -38,13 +20,13 @@ https://https:www.matlabexpo.com/cn/2018/proceedings/proceedings.html
 > - one by one, show your best.  
 > - do more, think deeper.
 
+**专利2 自动驾驶车辆自动过停车杆装置**
+边构思，边画图
+
 **论文1 车道线检测与偏离预警/车道保持**
 ~参考论文：Towards End-to-End Lane Detection: an Instance Segmentation Approach~
 先总结udacity工作，结合Matlab模型，给出代码生成
 先出结果，后撰写论文
-
-
-**专利2 一种的系统**
 
 **AEB with matlab**  
 https://ww2.mathworks.cn/help/driving/examples/sensor-fusion-using-synthetic-radar-and-vision-data.html
@@ -52,6 +34,7 @@ https://ww2.mathworks.cn/help/driving/examples/radar-signal-simulation-and-proce
 https://ww2.mathworks.cn/help/driving/examples/model-radar-sensor-detections.html
 
 ### done list  
+- [x] 项目计划书  
 - [ ] ~EDA(FPGA)课程rush掉https://www.icourse163.org/learn/HIT-1003359013?tid=1003590011#/learn/content~ 
 - [x] ~查询SIL资料或论文，写一写文字https://github.com/lgsvl/simulator~  
 - [x] 百度地图API程序学习与调试，跑一下，截图两张
