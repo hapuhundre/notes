@@ -8,6 +8,9 @@ https://ww2.mathworks.cn/videos/hev-modeling-106515.html?s_tid=srchtitle
 - [ ] 快速搭建新能源汽车整车模型及其性能优化
 https://ww2.mathworks.cn/videos/hev-modeling-simulation-and-performance-optimization-1506714632188.html?s_tid=srchtitle
 
+- [ ] 搭建快速而准确的新能源汽车动力总成系统模型及其在系统设计优化和控制系统开发中的应用
+https://ww2.mathworks.cn/videos/building-fast-and-accurate-new-energy-vehicle-powertrain-models-for-system-and-control-development-1510051647675.html?s_tid=srchtitle
+
 - [ ] Web编程 Intro & HTML & CSS 
 > 参考教材： Web programming step by step, Marty Stepp, University of Washington  
 > 1、该课程跟其他类似课程的最大区别是什么？  
