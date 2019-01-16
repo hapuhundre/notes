@@ -32,7 +32,7 @@ https://https:www.matlabexpo.com/cn/2018/proceedings/proceedings.html
 **专利2 自动驾驶车辆自动过停车杆装置**
 边构思，边画图
 
-**论文1 车道线检测与偏离预警/车道保持**
+**论文1 车道线检测？行人检测？or a ROS project?**
 ~参考论文：Towards End-to-End Lane Detection: an Instance Segmentation Approach~
 先总结udacity工作，结合Matlab模型，给出代码生成
 先出结果，后撰写论文
