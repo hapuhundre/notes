@@ -5,6 +5,9 @@ https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrai
 - [ ] 通过系统级仿真优化HEV电气设计
 https://ww2.mathworks.cn/videos/hev-modeling-106515.html?s_tid=srchtitle
 
+- [ ] 快速搭建新能源汽车整车模型及其性能优化
+https://ww2.mathworks.cn/videos/hev-modeling-simulation-and-performance-optimization-1506714632188.html?s_tid=srchtitle
+
 - [ ] Web编程 Intro & HTML & CSS 
 > 参考教材： Web programming step by step, Marty Stepp, University of Washington  
 > 1、该课程跟其他类似课程的最大区别是什么？  
