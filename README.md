@@ -1,6 +1,14 @@
 > Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
 # TO DO list
+- [ ] Apollo技术汇报
+- 进度 Apollo版本迭代 每个版本的更新内容
+- 不影响项目进度可以做任何事情
+- calibration list （方法、需要的材料、权限、资金来源）
+- 车辆标定（油门、转向，核心内容，深入研究）
+- 内容、资源、目标、时间节点 figure it out.
+
+--------------------------------------------------
 - [ ] 通过系统级仿真优化HEV电气设计
 https://ww2.mathworks.cn/videos/hev-modeling-106515.html?s_tid=srchtitle
 
@@ -9,7 +17,7 @@ https://ww2.mathworks.cn/videos/hev-modeling-simulation-and-performance-optimiza
 
 - [ ] 搭建快速而准确的新能源汽车动力总成系统模型及其在系统设计优化和控制系统开发中的应用
 https://ww2.mathworks.cn/videos/building-fast-and-accurate-new-energy-vehicle-powertrain-models-for-system-and-control-development-1510051647675.html?s_tid=srchtitle
-
+------------------------------------------------------------
 - [ ] Web编程 Intro & HTML & CSS 
 > 参考教材： Web programming step by step, Marty Stepp, University of Washington  
 > 1、该课程跟其他类似课程的最大区别是什么？  
