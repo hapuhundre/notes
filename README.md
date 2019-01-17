@@ -8,29 +8,13 @@
 - 车辆标定（油门、转向，核心内容，深入研究）
 - 内容、资源、目标、时间节点 figure it out.
 
---------------------------------------------------
-- [ ] 通过系统级仿真优化HEV电气设计
-https://ww2.mathworks.cn/videos/hev-modeling-106515.html?s_tid=srchtitle
 
-- [ ] 快速搭建新能源汽车整车模型及其性能优化
-https://ww2.mathworks.cn/videos/hev-modeling-simulation-and-performance-optimization-1506714632188.html?s_tid=srchtitle
-
-- [ ] 搭建快速而准确的新能源汽车动力总成系统模型及其在系统设计优化和控制系统开发中的应用
-https://ww2.mathworks.cn/videos/building-fast-and-accurate-new-energy-vehicle-powertrain-models-for-system-and-control-development-1510051647675.html?s_tid=srchtitle
-------------------------------------------------------------
 - [ ] Web编程 Intro & HTML & CSS 
 > 参考教材： Web programming step by step, Marty Stepp, University of Washington  
 > 1、该课程跟其他类似课程的最大区别是什么？  
-该课程每章都以案例驱动，围绕案例展开相关知识的学习。每章学习完成后，学习者应能利用所学知识对案例进行实现；课程的目标在于培养学习者的工程实践能力，因此除案例驱动外，课程将学习者的这种能力摆在首位，在结构上出现了“章案例+综合案例”这种形式；在内容上，课程与其他课程的不同之处在于，不仅介绍了Web程序设计所需要的前台技术，而且还对服务器及后台技术作了详细介绍，给学习者一个关于Web程序设计的整体架构。  
+该课程每章都以案例驱动，围绕案例展开相关知识的学习。 
 2、课程中有两种技术方案，每个都必须学吗？  
-该课程在技术实现中有两种方案，一种是基于开源的“Apache+MySQL＋PHP”组合，该组合为开源软件组合，具有跨平台、第三方资源丰富、应用广泛等特征；另一组合是基于Windows平台的“IIS+MSSQL+ASP.NET”组合，该组合具有使用简单，上手容易的特点，是学习者快速学习Web编程的最佳方案。学习者可根据自身情况，选择学习一种即可。  
-3、课程中涉及很多知识细节，这些内容都要求记住吗？  
-该课程涉及知识细节很多，每个内容若详细介绍都可以是一门课程，但课程的目标是培养学习者的实践能力，不要求学习者对于每一知识细节都死记硬背，学习者只需知道，在具体工程实践中若遇到问题，该如何查找到相关知识及其具体用法。  
-
-
-- [ ] read it and search more  
-https://ww2.mathworks.cn/academia/books.html  
-https://https:www.matlabexpo.com/cn/2018/proceedings/proceedings.html
+该课程在技术实现中有两种方案，一种是基于开源的“Apache+MySQL＋PHP”组合，该组合为开源软件组合，具有跨平台、第三方资源丰富、应用广泛等特征；另一组合是基于Windows平台的“IIS+MSSQL+ASP.NET”组合，该组合具有使用简单，上手容易的特点，是学习者快速学习Web编程的最佳方案。 
 
 ### 论文 & Patent
 > - one by one, show your best.  
@@ -49,11 +33,23 @@ https://https:www.matlabexpo.com/cn/2018/proceedings/proceedings.html
 ~参考论文：Towards End-to-End Lane Detection: an Instance Segmentation Approach~
 先总结udacity工作，结合Matlab模型，给出代码生成
 先出结果，后撰写论文
-
 **AEB with matlab**  
 https://ww2.mathworks.cn/help/driving/examples/sensor-fusion-using-synthetic-radar-and-vision-data.html
 https://ww2.mathworks.cn/help/driving/examples/radar-signal-simulation-and-processing-for-automated-driving.html
 https://ww2.mathworks.cn/help/driving/examples/model-radar-sensor-detections.html
+
+--------------------------------------------------
+- [ ] 通过系统级仿真优化HEV电气设计
+https://ww2.mathworks.cn/videos/hev-modeling-106515.html?s_tid=srchtitle
+
+- [ ] 快速搭建新能源汽车整车模型及其性能优化
+https://ww2.mathworks.cn/videos/hev-modeling-simulation-and-performance-optimization-1506714632188.html?s_tid=srchtitle
+
+- [ ] 搭建快速而准确的新能源汽车动力总成系统模型及其在系统设计优化和控制系统开发中的应用
+https://ww2.mathworks.cn/videos/building-fast-and-accurate-new-energy-vehicle-powertrain-models-for-system-and-control-development-1510051647675.html?s_tid=srchtitle
+------------------------------------------------------------
+
+
 
 ### done list
 - [x] 使用基于模型的设计方法开发混合动力总成系统 - 视频 - MATLAB & Simulink  
