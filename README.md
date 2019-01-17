@@ -1,9 +1,6 @@
 > Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
 # TO DO list
-- [x] 使用基于模型的设计方法开发混合动力总成系统 - 视频 - MATLAB & Simulink  
-https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrain-systems-82510.html?s_tid=srchtitle
-
 - [ ] 通过系统级仿真优化HEV电气设计
 https://ww2.mathworks.cn/videos/hev-modeling-106515.html?s_tid=srchtitle
 
@@ -50,7 +47,9 @@ https://ww2.mathworks.cn/help/driving/examples/sensor-fusion-using-synthetic-rad
 https://ww2.mathworks.cn/help/driving/examples/radar-signal-simulation-and-processing-for-automated-driving.html
 https://ww2.mathworks.cn/help/driving/examples/model-radar-sensor-detections.html
 
-### done list  
+### done list
+- [x] 使用基于模型的设计方法开发混合动力总成系统 - 视频 - MATLAB & Simulink  
+https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrain-systems-82510.html?s_tid=srchtitle
 - [x] 项目计划书  
 - [ ] ~EDA(FPGA)课程rush掉https://www.icourse163.org/learn/HIT-1003359013?tid=1003590011#/learn/content~ 
 - [x] ~查询SIL资料或论文，写一写文字https://github.com/lgsvl/simulator~  
