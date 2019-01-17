@@ -8,6 +8,9 @@
 - 车辆标定（油门、转向，核心内容，深入研究）
 - 内容、资源、目标、时间节点 figure it out.
 
+- [ ] 自动驾驶芯片 调研
+性能参数 开发环境支持 报价（估算） 
+
 
 - [ ] Web编程 Intro & HTML & CSS 
 > 参考教材： Web programming step by step, Marty Stepp, University of Washington  
