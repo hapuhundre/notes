@@ -1,6 +1,21 @@
 > Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
 # TO DO list
+- [ ] Apollo1PPT
+Timeline：
+
+
+
+
+A vector pic of bus：
+- sensors calibration
+- decision & control
+- user application on WeChat platform
+
+
+
+
+
 - [ ] Apollo技术汇报
 - 进度 Apollo版本迭代 每个版本的更新内容
 - 不影响项目进度可以做任何事情
