@@ -1,6 +1,8 @@
 > Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
 # TO DO list
+
+--------------------------**you must do it today**-------------------
 - [ ] Apollo1PPT  
 Timeline：
 
@@ -8,12 +10,11 @@ Timeline：
 |--|--|--|--|--|--|--|--|--|--|--|--|
 |项目立项，技术调研|拟定供货合同；撰写Apollo平台可行性报告|拟定数据采集方案，传感器标定方案，感知模型训练/测试策略，硬件在环平台测试大纲等|到货验收，开发板刷写Ubuntu系统	Apollo运行环境配置，硬件接口调试，摄像头标定，采集道路视频数据|构建车道保持、目标检测、自适应巡航等L3子功能，并搭建板载端的硬件在环对其进行测试评估|项目验收总结|
 
+- [ ] Web编程 Intro
+> 参考教材： Web programming step by step, Marty Stepp, University of Washington  
 
 
-~A vector pic of bus：~
-
-
-
+---------------------------------------------------------------------
 
 
 - [ ] Apollo技术汇报
@@ -28,12 +29,7 @@ Timeline：
 - 采埃孚-英伟达 CES2019 自动驾驶中央处理器
 
 
-- [ ] Web编程 Intro & HTML & CSS 
-> 参考教材： Web programming step by step, Marty Stepp, University of Washington  
-> 1、该课程跟其他类似课程的最大区别是什么？  
-该课程每章都以案例驱动，围绕案例展开相关知识的学习。 
-2、课程中有两种技术方案，每个都必须学吗？  
-该课程在技术实现中有两种方案，一种是基于开源的“Apache+MySQL＋PHP”组合，该组合为开源软件组合，具有跨平台、第三方资源丰富、应用广泛等特征；另一组合是基于Windows平台的“IIS+MSSQL+ASP.NET”组合，该组合具有使用简单，上手容易的特点，是学习者快速学习Web编程的最佳方案。 
+
 
 ### 论文 & Patent
 > - one by one, show your best.  
