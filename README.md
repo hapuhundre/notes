@@ -25,6 +25,7 @@ A vector pic of bus：
 
 - [ ] 自动驾驶芯片 调研  
 - 性能参数 开发环境支持 报价（估算） 
+- 采埃孚-英伟达 CES2019 自动驾驶中央处理器
 
 
 - [ ] Web编程 Intro & HTML & CSS 
