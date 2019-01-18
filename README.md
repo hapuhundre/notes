@@ -1,9 +1,12 @@
 > Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
 # TO DO list
-- [ ] Apollo1PPT
+- [ ] Apollo1PPT  
 Timeline：
 
+|1月|2月|3月|4月|5月|6月|7月|8月|9月|10月|11月|12月|
+|--|--|--|--|--|--|--|--|--|--|--|--|
+|项目立项，技术调研|拟定供货合同；撰写Apollo平台可行性报告|拟定数据采集方案，传感器标定方案，感知模型训练/测试策略，硬件在环平台测试大纲等|到货验收，开发板刷写Ubuntu系统	Apollo运行环境配置，硬件接口调试，摄像头标定，采集道路视频数据|构建车道保持、目标检测、自适应巡航等L3子功能，并搭建板载端的硬件在环对其进行测试评估|项目验收总结|
 
 
 
