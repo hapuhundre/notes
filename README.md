@@ -7,11 +7,11 @@ Timeline：
 
 
 
-A vector pic of bus：
+~A vector pic of bus：
 - sensors calibration
 - decision & control
 - user application on WeChat platform
-
+~
 
 
 
