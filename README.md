@@ -3,11 +3,13 @@
 # TO DO list
 
 --------------------------**you must do it today**-------------------
-- [x] Apollo1PPT timeline 
+- [ ] VPS故障
+- step1 重新生成SS和SSR配置 and test it
+- step2 写工单，报故障
+- step3 换IP
 
 
-- [ ] Web编程 Intro
-> 参考教材： Web programming step by step, Marty Stepp, University of Washington  
+- [ ] CSS and CS142 Proj1
 
 
 ---------------------------------------------------------------------
