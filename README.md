@@ -3,7 +3,7 @@
 # TO DO list
 
 --------------------------**you must do it today**-------------------
-- [ ] VPS故障
+- [x] VPS故障
 - step1 重新生成SS和SSR配置 and test it
 - step2 写工单，报故障
 - step3 换IP
