@@ -9,7 +9,7 @@
 - step3 换IP
 
 
-- [ ] CSS and CS142 Proj1
+- [ ] no web programming， more embedded.
 
 
 ---------------------------------------------------------------------
