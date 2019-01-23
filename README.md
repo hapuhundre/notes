@@ -4,7 +4,7 @@
 - [ ] 单目摄像头为什么不能测量深度，而双目可以？
 - [ ] 双目摄像头是如何基线校正的？
 - [ ] RGBD深度摄像头和双目摄像头相比有何优势？
-
+- [ ] https://blog.csdn.net/csdnnews/article/details/86542188 
 
 - [ ] Apollo技术汇报
 - 进度 Apollo版本迭代 每个版本的更新内容
