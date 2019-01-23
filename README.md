@@ -1,6 +1,10 @@
 > Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
 # TO DO list
+- [ ] 单目摄像头为什么不能测量深度，而双目可以？
+- [ ] 双目摄像头是如何基线校正的？
+- [ ] RGBD深度摄像头和双目摄像头相比有何优势？
+
 
 --------------------------**you must do it today**-------------------
 - [x] VPS故障
