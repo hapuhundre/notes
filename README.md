@@ -6,19 +6,6 @@
 - [ ] RGBD深度摄像头和双目摄像头相比有何优势？
 
 
---------------------------**you must do it today**-------------------
-- [x] VPS故障
-- step1 重新生成SS和SSR配置 and test it
-- step2 写工单，报故障
-- step3 换IP
-
-
-- [ ] no web programming， more embedded.
-
-
----------------------------------------------------------------------
-
-
 - [ ] Apollo技术汇报
 - 进度 Apollo版本迭代 每个版本的更新内容
 - 不影响项目进度可以做任何事情
@@ -77,6 +64,10 @@ https://ww2.mathworks.cn/videos/building-fast-and-accurate-new-energy-vehicle-po
 
 
 ### done list
+- [x] VPS故障
+- step1 重新生成SS和SSR配置 and test it
+- step2 写工单，报故障
+- step3 换IP
 - [x] 使用基于模型的设计方法开发混合动力总成系统 - 视频 - MATLAB & Simulink  
 https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrain-systems-82510.html?s_tid=srchtitle
 - [x] 项目计划书  
