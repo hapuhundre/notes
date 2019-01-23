@@ -1,6 +1,14 @@
 > Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
 # TO DO list
+
+----------------------**MUST DO IT TODAY!**-----------------------
+- [ ] 科目1题库 105-300
+- [ ] emb sys LAB2 开始
+- [ ] CS142 & 网络编程 二选一 目标：learn more to show.
+---------------------------------------------------------------
+
+
 - [ ] 单目摄像头为什么不能测量深度，而双目可以？
 - [ ] 双目摄像头是如何基线校正的？
 - [ ] RGBD深度摄像头和双目摄像头相比有何优势？
