@@ -7,7 +7,9 @@
 - *一天300题，刷两遍*  
 - [ ] emb sys LAB2 开始
 
-- [ ] ~CS142~ & 网络编程 二选一 目标：learn more to show. 
+- https://ww2.mathworks.cn/campaigns/offers/adas-code-examples.confirmation.html?elqsid=1548293776328&potential_use=Commercial
+
+- [ ] 网络编程  
 - *控制难度和投入精力*
 - *快速学习*
 ---------------------------------------------------------------
