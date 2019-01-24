@@ -4,12 +4,13 @@
 
 ----------------------**MUST DO IT TODAY!**-----------------------
 - [ ] 科目1题库 105-300  
-- *一天300题，刷两遍*  
-- [ ] emb sys LAB2 开始
+- *一天300题，刷两遍* 
+- 过年闲着蛋疼时刷
 
+- [ ] emb sys LAB2 开始
 - https://ww2.mathworks.cn/campaigns/offers/adas-code-examples.confirmation.html?elqsid=1548293776328&potential_use=Commercial
 
-- [ ] 网络编程  
+- [ ] edx automotive emerging technology
 - *控制难度和投入精力*
 - *快速学习*
 ---------------------------------------------------------------
