@@ -1,9 +1,20 @@
 > Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
 # TO DO list
+  
+## 精简技能树、务实基础  
+**基础：**
+- [ ] cpp primer 快速结束
+- [ ] design pattern 学
+- [ ] leetcode 128 刷  
 
-----------------------**MUST DO IT TODAY!**-----------------------
-**精简技能树、务实基础**  
+you could learning more by doing more practice.  
+- [hacker rank][www.hackerrank.com]  
+一个足矣.
+
+**self-driving 技能树：**
+- [ ] canbus  
+- [ ] 
 
 ~- [ ] emb sys LAB2 开始~
 
