@@ -2,7 +2,7 @@
 
 # TO DO list
   
-## 精简技能树、务实基础  
+## 精简技能树、务实基础、do my favor!    
 **基础：**
 - [ ] cpp primer 快速结束
 - [ ] design pattern 学
@@ -14,7 +14,12 @@ you could learning more by doing more practice.
 
 **self-driving 技能树：**
 - [ ] canbus  
-- [ ] 
+- [ ] software in loop
+
+**do my favor!**
+- [ ] CFD! [rendering course on Mac~][https://github.com/ssloy/tinyrenderer/wiki]
+- computer graphics
+- and learn more 
 
 ~- [ ] emb sys LAB2 开始~
 
@@ -24,12 +29,8 @@ you could learning more by doing more practice.
 - *控制难度和投入精力*
 - *快速学习*
 
-- [ ] do your favor! CFD! rendering course on Mac~
-- computer graphics
-- and learn more 
-
-
 ---------------------------------------------------------------
+
 - [ ] 科目1题库 105-300  
 - *一天300题，刷两遍* 
 - 过年闲着蛋疼时刷
@@ -113,12 +114,7 @@ https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrai
 内容：1.对车辆道路移植时需要重新标定传感器问题提出解决策略；2.针对特殊场景行驶受限问题提出控制方案；3.开发行车轨迹、乘客监控等简单物联网应用.
 意义：1.建立自动驾驶系统硬件批量部署、硬件在环测试能力，降低开发成本；2.可针对不同应用场景及客户需求定制开发自动驾驶客车，有利于市场推广.
 
-### 百度地图轨迹线
-百度地图jsAPI实时画出运行轨迹，车头实时指向行驶方向，设置角度偏移
-https://blog.csdn.net/skywqnan/article/details/79036262
 
-读取本地坐标文件，在百度地图画运动轨迹（2018新华三“物联网终端行为分析”第三题）
-https://blog.csdn.net/wanzhen4330/article/details/83868385
 
 # ROS
 https://industrial-training-master.readthedocs.io/en/latest/
@@ -147,11 +143,12 @@ https://search.packtpub.com/?sortBy=prod-packt-main-MostRecent&refinementList%5B
 ### iot awesome list
 https://github.com/HQarroum/awesome-iot
 
-### Embedded System & RTOS
+### 百度地图轨迹线
+百度地图jsAPI实时画出运行轨迹，车头实时指向行驶方向，设置角度偏移
+https://blog.csdn.net/skywqnan/article/details/79036262
 
-### Front end
-Front-End Developer Handbook 2018
-https://https:www.matlabexpo.com/cn/2018/proceedings/proceedings.html
+读取本地坐标文件，在百度地图画运动轨迹（2018新华三“物联网终端行为分析”第三题）
+https://blog.csdn.net/wanzhen4330/article/details/83868385
 
 
 Do not upload any file from working PC of BYD.
