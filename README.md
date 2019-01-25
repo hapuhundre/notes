@@ -9,7 +9,7 @@
 - [ ] leetcode 128 刷  
 
 you could learning more by doing more practice.  
-- [hacker rank][www.hackerrank.com]  
+- [hacker rank](www.hackerrank.com)  
 一个足矣.
 
 **self-driving 技能树：**
@@ -17,9 +17,22 @@ you could learning more by doing more practice.
 - [ ] software in loop
 
 **do my favor!**
-- [ ] CFD! [rendering course on Mac~][https://github.com/ssloy/tinyrenderer/wiki]
+- [ ] CFD! [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)
 - computer graphics
 - and learn more 
+
+- [ ] 通过[看文档](https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/)刷163mooc的ROS课程习题
+
+**一些ros的参考资料**
+https://industrial-training-master.readthedocs.io/en/latest/  
+
+ROS一些困难与建议  
+https://www.zhihu.com/question/296233185  
+  
+MAV planning tools using voxblox as the map representation.    
+https://github.com/ethz-asl/mav_voxblox_planning  
+
+
 
 ~- [ ] emb sys LAB2 开始~
 
@@ -116,14 +129,7 @@ https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrai
 
 
 
-# ROS
-https://industrial-training-master.readthedocs.io/en/latest/
 
-ROS一些困难与建议
-https://www.zhihu.com/question/296233185
-
-MAV planning tools using voxblox as the map representation.  
-https://github.com/ethz-asl/mav_voxblox_planning
 
 # IoT
 环境监控场景的 IoT 物联网开发实战  
