@@ -3,8 +3,11 @@
 # TO DO list
 
 ----------------------**MUST DO IT TODAY!**-----------------------
-- [ ] emb sys LAB2 开始
-- https://ww2.mathworks.cn/campaigns/offers/adas-code-examples.confirmation.html?elqsid=1548293776328&potential_use=Commercial
+**精简技能树、务实基础**  
+
+~- [ ] emb sys LAB2 开始~
+
+- https://ww2.mathworks.cn/campaigns/offers/adas-code-examples.confirmation.html?elqsid=1548293776328&potential_use=Commercial~
 
 - [ ] edx automotive emerging technology
 - *控制难度和投入精力*
