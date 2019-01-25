@@ -149,12 +149,16 @@ https://search.packtpub.com/?sortBy=prod-packt-main-MostRecent&refinementList%5B
 ### iot awesome list
 https://github.com/HQarroum/awesome-iot
 
-### 百度地图轨迹线
-百度地图jsAPI实时画出运行轨迹，车头实时指向行驶方向，设置角度偏移
-https://blog.csdn.net/skywqnan/article/details/79036262
+### Jd
+1、	具有发动机标定或电喷系统控制开发工作经验，熟悉新能源动力系统，熟练使用Simulink等仿真软件； 
+2、	新能源仿真平台数学模型搭建，新能源控制策略优化，整车性能匹配；
+3、	新能源车辆测试，如MIL，SIL，HIL测试技术的研究；
+4、	整车动力学，整车操稳性仿真及其控制，汽车底盘动力学。
 
-读取本地坐标文件，在百度地图画运动轨迹（2018新华三“物联网终端行为分析”第三题）
-https://blog.csdn.net/wanzhen4330/article/details/83868385
+1、	2年以上机械设计工作经验，电池系统设计经验优先；
+2、	2年以上策略、软件开发、电子电路硬件开发工作经验，BMS相关工作经验优先；
+3、	2年以上热管理、热流仿真工作经验；
+4、	吃苦耐劳；沟通能力强。
 
 
 Do not upload any file from working PC of BYD.
