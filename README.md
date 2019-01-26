@@ -2,26 +2,32 @@
 
 # TO DO list
   
-## 精简技能树、务实基础、do my favor!    
-**基础：**
+## 基础、技能书、do my favor!    
+### 基础 for interview
 - [ ] cpp primer 快速结束
-- [ ] design pattern 学
+**仔细**参考[这个文档](https://github.com/huihut/interview)，在cpp primer中进行深化
+刷cpp primer书上题目卵用也没有，刷算法的才行。
+
+- [ ] design pattern 学  
+参上  
+
 - [ ] leetcode 128 刷  
+
 
 you could learning more by doing more practice.  
 - [hacker rank](www.hackerrank.com)  
-一个足矣.
+一个足矣.  
 
 **self-driving 技能树：**
-- [ ] canbus  
-- [ ] software in loop
+- [ ] canbus    
+- [ ] software in loop  
 
 **do my favor!**
-- [ ] CFD! [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)
-- computer graphics
-- and learn more 
+- [ ] CFD! [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)  
+- computer graphics  
+- and learn more  
 
-- [ ] 通过[看文档](https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/)刷163mooc的ROS课程习题
+- [ ] 通过[看文档](https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/)刷163mooc的ROS课程习题  
 
 **一些ros的参考资料**
 https://industrial-training-master.readthedocs.io/en/latest/  
@@ -109,7 +115,6 @@ https://ww2.mathworks.cn/videos/building-fast-and-accurate-new-energy-vehicle-po
 ------------------------------------------------------------
 
 
-
 ### done list
 - [x] VPS故障
 - step1 重新生成SS和SSR配置 and test it
@@ -126,39 +131,6 @@ https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrai
 > 目标：通过部署百度Apollo、AutoWare等开源平台，提高对传感器标定、线控的量产技术积累，调整相关配置参数，匹配适应比亚迪客车及客户运营场景的自动驾驶系统.
 内容：1.对车辆道路移植时需要重新标定传感器问题提出解决策略；2.针对特殊场景行驶受限问题提出控制方案；3.开发行车轨迹、乘客监控等简单物联网应用.
 意义：1.建立自动驾驶系统硬件批量部署、硬件在环测试能力，降低开发成本；2.可针对不同应用场景及客户需求定制开发自动驾驶客车，有利于市场推广.
-
-
-
-
-
-# IoT
-环境监控场景的 IoT 物联网开发实战  
-https://gitbook.cn/gitchat/activity/5c2340c5ef105b18c8f7a048  
-  
-30 分钟搭建空气质量检测仪产品原型  
-https://gitbook.cn/gitchat/activity/5c2f1f03d294ce254aa6fef7
-
-book: JavaScript on Things  
-https://www.manning.com/books/javascript-on-things  
-
-book: IoT Projects  
-https://www.packtpub.com/application-development/internet-things-programming-projects
-
-book list: packthub iot books  
-https://search.packtpub.com/?sortBy=prod-packt-main-MostRecent&refinementList%5Breleased%5D%5B0%5D=Available&refinementList%5Bcategory%5D%5B0%5D=IoT%20%26%20Hardware
-### iot awesome list
-https://github.com/HQarroum/awesome-iot
-
-### Jd
-1、	具有发动机标定或电喷系统控制开发工作经验，熟悉新能源动力系统，熟练使用Simulink等仿真软件； 
-2、	新能源仿真平台数学模型搭建，新能源控制策略优化，整车性能匹配；
-3、	新能源车辆测试，如MIL，SIL，HIL测试技术的研究；
-4、	整车动力学，整车操稳性仿真及其控制，汽车底盘动力学。
-
-1、	2年以上机械设计工作经验，电池系统设计经验优先；
-2、	2年以上策略、软件开发、电子电路硬件开发工作经验，BMS相关工作经验优先；
-3、	2年以上热管理、热流仿真工作经验；
-4、	吃苦耐劳；沟通能力强。
 
 
 Do not upload any file from working PC of BYD.
