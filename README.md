@@ -20,8 +20,8 @@ you could learning more by doing more practice.
 
 **self-driving 技能树：**
 - [ ] canbus    
-- [ ] software in loop  
-
+- [ ] software in loop
+**[Apollo控制模块](https://blog.csdn.net/u013914471)**
 **do my favor!**
 - [ ] CFD! [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)  
 - computer graphics  
