@@ -9,7 +9,7 @@
 刷cpp primer书上题目卵用也没有，刷算法的才行。
 
 - [ ] design pattern 学  
-参上  
+移植代码 -> 总结思路 -> 刷面试题  
 
 - [ ] leetcode 128 刷  
 
