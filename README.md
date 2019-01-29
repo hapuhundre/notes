@@ -5,8 +5,12 @@
 ## 基础、技能书、do my favor!    
 ### 基础 for interview
 - [ ] cpp primer 快速结束
-**仔细**参考[这个文档](https://github.com/huihut/interview)，在cpp primer中进行深化
-刷cpp primer书上题目卵用也没有，刷算法的才行。
+  
+step1: 结合[这个文档](https://github.com/huihut/interview)，列一个问题清单
+step2: 找到问题对应的知识点和关键词，在cpp primer中进行深化  
+step3: 回顾问题清单，复习总结  
+
+> 刷cpp primer书上题目卵用也没有，刷算法的才行。
 
 - [ ] design pattern 学  
 移植代码 -> 总结思路 -> 刷面试题  
