@@ -4,5 +4,5 @@
 - [Getting Started with](https://processors.wiki.ti.com/index.php/Getting_Started_with_the_TIVA%E2%84%A2_C-Series_TM4C123G_LaunchPad?DCMP=tivac&HQS=TM4C123G-Launchpad-Workshop) 
 
 还有一些MOOC和书籍：
-- [edx嵌入式三部曲]() 主要是要把课程内容过一遍，当然Lab还是要慢慢做ing
-- [厦门大学嵌入式]() 通过念PPT教学生，看下PPT不就得了
+- [edx嵌入式三部曲]() 
+- [厦门大学嵌入式]() 
