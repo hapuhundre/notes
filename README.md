@@ -3,23 +3,46 @@
 > 什么是记笔记？记笔记是记录自己的想法，记录是怎么完成任务、解决问题的。不是我看了什么就记下来，仅仅记下内容很快就忘。记录我怎么理解的，怎么解决的就可以加深印象，快速回顾。  
 > 比如cpp中static的用法，罗列别人不如记一下你自己怎么理解的，eg1. 对于一个普通变量而言，加个static可以在将其放在静态区域内...而不是1.修饰普通变量，修改变量的存储区域和生命周期balabala这样陈词的罗列。
 
+---------------------------------------------------
+[TOC]
+
+
 # TO DO list
   
-### work
-**专利**  
+## work
+### 专利 
 - [x] 完成并提交一篇
 - [ ] 构思一篇: 功能降级/  
-**论文**  
+
+### 论文  
 - [ ] 完成并提交一篇
 - [ ] 构思一篇：音频传输/SIL/PIL  
-**Apollo项目**  
+
+### Apollo项目  
 - [ ] Apollo研究项目开发板调研报告
 - [ ] vehicle calibration
+
 **嵌入式的CAN报文收发**  
+- [ ] 单目摄像头为什么不能测量深度，而双目可以？
+- [ ] 双目摄像头是如何基线校正的？
+- [ ] RGBD深度摄像头和双目摄像头相比有何优势？
+- [ ] https://blog.csdn.net/csdnnews/article/details/86542188 
+
+- [ ] Apollo技术汇报
+- 进度 Apollo版本迭代 每个版本的更新内容
+- 不影响项目进度可以做任何事情
+- calibration list （方法、需要的材料、权限、资金来源）
+- 车辆标定（油门、转向，核心内容，深入研究）
+- 内容、资源、目标、时间节点 figure it out.
+
+- [ ] 自动驾驶芯片 调研  
+- 性能参数 开发环境支持 报价（估算） 
+- 采埃孚-英伟达 CES2019 自动驾驶中央处理器
 
 
 
-### 基础 for interview
+## Interv
+### cpp
 - [ ] cpp primer 快速结束
   
 step1: 结合[这个文档](https://github.com/huihut/interview)，列一个问题清单  
@@ -27,17 +50,10 @@ step2: 找到问题对应的知识点和关键词，在cpp primer中进行深化
 step3: 回顾问题清单，复习总结  
 
 
-
-
-
-
 you could learning more by doing more practice.  
-- [hacker rank](https://www.hackerrank.com)  
-一个足矣.  
 
-**self-driving 技能树：**
-- [ ] canbus    
-- [ ] software in loop  
+## learning
+### sd
 
 **[Apollo控制模块](https://blog.csdn.net/u013914471)**    
 **[Apollo博客](https://blog.csdn.net/sunyoop)**   
@@ -45,7 +61,7 @@ you could learning more by doing more practice.
 
 
 
-**do my favor!**
+### do favor & proj
 - [ ] CFD! [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)  
 - computer graphics  
 - and learn more  
@@ -54,6 +70,7 @@ you could learning more by doing more practice.
 
 
 --------------------------------------------------------------------------------------
+# 参考资料
 
 **一些ros的参考资料**
 https://industrial-training-master.readthedocs.io/en/latest/  
@@ -80,21 +97,7 @@ https://github.com/ethz-asl/mav_voxblox_planning
 - *一天300题，刷两遍* 
 - 过年闲着蛋疼时刷
 
-- [ ] 单目摄像头为什么不能测量深度，而双目可以？
-- [ ] 双目摄像头是如何基线校正的？
-- [ ] RGBD深度摄像头和双目摄像头相比有何优势？
-- [ ] https://blog.csdn.net/csdnnews/article/details/86542188 
 
-- [ ] Apollo技术汇报
-- 进度 Apollo版本迭代 每个版本的更新内容
-- 不影响项目进度可以做任何事情
-- calibration list （方法、需要的材料、权限、资金来源）
-- 车辆标定（油门、转向，核心内容，深入研究）
-- 内容、资源、目标、时间节点 figure it out.
-
-- [ ] 自动驾驶芯片 调研  
-- 性能参数 开发环境支持 报价（估算） 
-- 采埃孚-英伟达 CES2019 自动驾驶中央处理器
 
 
 
