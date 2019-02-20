@@ -13,7 +13,23 @@
 
 
 # TO DO list
+## Interv
+你需要：  
+- cpp overview
+- sword to offer
+- os & concurrent & networking
+
+### cpp
+- [ ] cpp primer 快速结束
   
+step1: 结合[这个文档](https://github.com/huihut/interview)，列一个问题清单  
+step2: 找到问题对应的知识点和关键词，在cpp primer中进行深化  
+step3: 回顾问题清单，复习总结  
+
+
+you could learning more by doing more practice.  
+
+
 ## work
 ### 专利 
 - [x] 完成并提交一篇
@@ -44,18 +60,6 @@
 - 性能参数 开发环境支持 报价（估算） 
 - 采埃孚-英伟达 CES2019 自动驾驶中央处理器
 
-
-
-## Interv
-### cpp
-- [ ] cpp primer 快速结束
-  
-step1: 结合[这个文档](https://github.com/huihut/interview)，列一个问题清单  
-step2: 找到问题对应的知识点和关键词，在cpp primer中进行深化  
-step3: 回顾问题清单，复习总结  
-
-
-you could learning more by doing more practice.  
 
 ## learning
 ### sd
@@ -103,49 +107,6 @@ https://github.com/ethz-asl/mav_voxblox_planning
 - 过年闲着蛋疼时刷
 
 
-
-
-
-
-### 论文 & Patent
-> - one by one, show your best.  
-> - do more, think deeper.
-
-**专利2 自动驾驶车辆自动过停车杆装置**
-边构思，边画图
-- 如果停车装置可以识别自动驾驶车辆车牌，但还是无法保证车辆安全过停车杆
-**不要讨论停车杆自动抬起的方案**
-**重点是识别车杆完全抬起**
-- 对于限定宽度给出提高车辆定位精度的方案，防止剐蹭到路沿  
-
-车底的亮度传感器
-传感线圈中央处布置一个射灯；车底布置一个亮度传感器（light sensor）
-
-图1 侧向示意图
-图2停车场布置示意图
-图3 装置工作流程示意图
-图4 亮度传感器在车底盘的布置
-
-
-
-**论文1 车道线检测？行人检测？or a ROS project?**
-~参考论文：Towards End-to-End Lane Detection: an Instance Segmentation Approach~
-先总结udacity工作，结合Matlab模型，给出代码生成
-先出结果，后撰写论文
-**AEB with matlab**  
-https://ww2.mathworks.cn/help/driving/examples/sensor-fusion-using-synthetic-radar-and-vision-data.html
-https://ww2.mathworks.cn/help/driving/examples/radar-signal-simulation-and-processing-for-automated-driving.html
-https://ww2.mathworks.cn/help/driving/examples/model-radar-sensor-detections.html
-
---------------------------------------------------
-- [ ] 通过系统级仿真优化HEV电气设计
-https://ww2.mathworks.cn/videos/hev-modeling-106515.html?s_tid=srchtitle
-
-- [ ] 快速搭建新能源汽车整车模型及其性能优化
-https://ww2.mathworks.cn/videos/hev-modeling-simulation-and-performance-optimization-1506714632188.html?s_tid=srchtitle
-
-- [ ] 搭建快速而准确的新能源汽车动力总成系统模型及其在系统设计优化和控制系统开发中的应用
-https://ww2.mathworks.cn/videos/building-fast-and-accurate-new-energy-vehicle-powertrain-models-for-system-and-control-development-1510051647675.html?s_tid=srchtitle
 ------------------------------------------------------------
 
 
@@ -165,6 +126,21 @@ https://ww2.mathworks.cn/videos/model-based-design-for-hybrid-electric-powertrai
 > 目标：通过部署百度Apollo、AutoWare等开源平台，提高对传感器标定、线控的量产技术积累，调整相关配置参数，匹配适应比亚迪客车及客户运营场景的自动驾驶系统.
 内容：1.对车辆道路移植时需要重新标定传感器问题提出解决策略；2.针对特殊场景行驶受限问题提出控制方案；3.开发行车轨迹、乘客监控等简单物联网应用.
 意义：1.建立自动驾驶系统硬件批量部署、硬件在环测试能力，降低开发成本；2.可针对不同应用场景及客户需求定制开发自动驾驶客车，有利于市场推广.
+
+**专利2 自动驾驶车辆自动过停车杆装置**
+边构思，边画图
+- 如果停车装置可以识别自动驾驶车辆车牌，但还是无法保证车辆安全过停车杆
+**不要讨论停车杆自动抬起的方案**
+**重点是识别车杆完全抬起**
+- 对于限定宽度给出提高车辆定位精度的方案，防止剐蹭到路沿  
+
+车底的亮度传感器
+传感线圈中央处布置一个射灯；车底布置一个亮度传感器（light sensor）
+
+图1 侧向示意图
+图2停车场布置示意图
+图3 装置工作流程示意图
+图4 亮度传感器在车底盘的布置
 
 
 Do not upload any file from working PC of BYD.
