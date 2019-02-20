@@ -5,7 +5,20 @@
 
 # TO DO list
   
-## 基础、技能书、do my favor!    
+### work
+**专利**  
+- [x] 完成并提交一篇
+- [ ] 构思一篇: 功能降级/  
+**论文**  
+- [ ] 完成并提交一篇
+- [ ] 构思一篇：音频传输/SIL/PIL  
+**Apollo项目**  
+- [ ] Apollo研究项目开发板调研报告
+- [ ] vehicle calibration
+**嵌入式的CAN报文收发**  
+
+
+
 ### 基础 for interview
 - [ ] cpp primer 快速结束
   
@@ -13,12 +26,9 @@ step1: 结合[这个文档](https://github.com/huihut/interview)，列一个问�
 step2: 找到问题对应的知识点和关键词，在cpp primer中进行深化  
 step3: 回顾问题清单，复习总结  
 
-> 刷cpp primer书上题目卵用也没有，刷算法的才行。
 
-- [ ] design pattern 学  
-移植代码 -> 总结思路 -> 刷面试题  
 
-- [ ] leetcode 128 刷  
+
 
 
 you could learning more by doing more practice.  
@@ -32,9 +42,7 @@ you could learning more by doing more practice.
 **[Apollo控制模块](https://blog.csdn.net/u013914471)**    
 **[Apollo博客](https://blog.csdn.net/sunyoop)**   
 
-**embeded system**  
-- [Ti University](https://university.ti.com/en/)  
-- 
+
 
 
 **do my favor!**
@@ -42,7 +50,7 @@ you could learning more by doing more practice.
 - computer graphics  
 - and learn more  
 
-- [ ] 通过[看文档](https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/)刷163mooc的ROS课程习题  
+ 
 
 
 --------------------------------------------------------------------------------------
