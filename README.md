@@ -1,7 +1,8 @@
-> Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
+> 批判思考自己能力与知识的局限性 Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
-> 什么是记笔记？记笔记是记录自己的想法，记录是怎么完成任务、解决问题的。不是我看了什么就记下来，仅仅记下内容很快就忘。记录我怎么理解的，怎么解决的就可以加深印象，快速回顾。  
-> 比如cpp中static的用法，罗列别人不如记一下你自己怎么理解的，eg1. 对于一个普通变量而言，加个static可以在将其放在静态区域内...而不是1.修饰普通变量，修改变量的存储区域和生命周期balabala这样陈词的罗列。
+> 什么是记笔记？记笔记是记录自己的想法，记录是怎么完成任务、解决问题的。不是我看了什么就记下来，仅仅记下内容很快就忘。记录我怎么理解的，怎么解决的就可以加深印象，快速回顾。比如cpp中static的用法，罗列别人不如记一下你自己怎么理解的，eg1. 对于一个普通变量而言，加个static可以在将其放在静态区域内...而不是1.修饰普通变量，修改变量的存储区域和生命周期balabala这样陈词的罗列。
+
+> 重视Project。make your hands dirty.
 
 ---------------------------------------------------
 ## 目录
