@@ -1,36 +1,72 @@
+> 重视Project。make your hands dirty. you could learning more by doing more practice.  
+
 > 批判思考自己能力与知识的局限性 Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
 
 > 什么是记笔记？记笔记是记录自己的想法，记录是怎么完成任务、解决问题的。不是我看了什么就记下来，仅仅记下内容很快就忘。记录我怎么理解的，怎么解决的就可以加深印象，快速回顾。比如cpp中static的用法，罗列别人不如记一下你自己怎么理解的，eg1. 对于一个普通变量而言，加个static可以在将其放在静态区域内...而不是1.修饰普通变量，修改变量的存储区域和生命周期balabala这样陈词的罗列。
 
-> 重视Project。make your hands dirty.
-
 ---------------------------------------------------
 ## 目录
 
-- [刷题：准备面试](#Interv)
-- [阅读 & MOOC：补充工作知识](#work)
-- [Project：提升能力](learning)
+* [刷题：准备面试](#Interv)
+  * [cpp](#cpp overview)
+  * [sword to offer](#sword to offer)
+  * [CSAPP & Concurrent & Networking](#CSAPP & Concurrent & Networking)
+* [阅读 & MOOC：补充工作知识](#learning)
+  * [MOOC](#MOOC)
+  * [参考学习资料](#参考学习资料)
+* [Project：提升能力](#Project)
+  * [Project Now](#Project Now)
+  * [do favor & project list](#do favor & project list)
+* [工作计划](#work)
+  * [专利](专利)
+  * [论文](论文)
+  * [Apollo项目](Apollo项目)
 
-
-# TO DO list
 ## Interv 
 你需要：  
-- cpp overview
-- sword to offer
-- os & concurrent & networking
-
-### cpp
+### cpp overview
 - [ ] cpp primer 快速结束
   
 step1: 结合[这个文档](https://github.com/huihut/interview)，列一个问题清单  
 step2: 找到问题对应的知识点和关键词，在cpp primer中进行深化  
 step3: 回顾问题清单，复习总结  
 
+### sword to offer
+[1-68](sword2offer)
 
-you could learning more by doing more practice.  
+### CSAPP & Concurrent & Networking
+先刷完sword2offer再分解
+
+
+
+
+
+## Learning
+
+### MOOC
+coursera self-driving 
+
+### 参考学习资料
+**[Apollo控制模块](https://blog.csdn.net/u013914471)**    
+**[Apollo博客](https://blog.csdn.net/sunyoop)**   
+
+more to see [参考资料](#参考资料)
+
+## Project
+### Project Now
+OOD
+
+### do favor & project list
+- [ ] CFD! [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)  
+- computer graphics  
+- and learn more  
+
 
 
 ## work
+- [ ] 科目1题库 105-300  
+- *一天300题，刷两遍* 
+- 过年闲着蛋疼时刷
 ### 专利 
 - [x] 完成并提交一篇
 - [ ] 构思一篇: 功能降级/  
@@ -60,24 +96,6 @@ you could learning more by doing more practice.
 - 性能参数 开发环境支持 报价（估算） 
 - 采埃孚-英伟达 CES2019 自动驾驶中央处理器
 
-
-## learning
-### sd
-
-**[Apollo控制模块](https://blog.csdn.net/u013914471)**    
-**[Apollo博客](https://blog.csdn.net/sunyoop)**   
-
-
-
-
-### do favor & proj
-- [ ] CFD! [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)  
-- computer graphics  
-- and learn more  
-
- 
-
-
 --------------------------------------------------------------------------------------
 # 参考资料
 
@@ -92,19 +110,9 @@ https://github.com/ethz-asl/mav_voxblox_planning
 
 
 
-~- [ ] emb sys LAB2 开始~
-
-- https://ww2.mathworks.cn/campaigns/offers/adas-code-examples.confirmation.html?elqsid=1548293776328&potential_use=Commercial~
-
-- [ ] edx automotive emerging technology
-- *控制难度和投入精力*
-- *快速学习*
-
 ---------------------------------------------------------------
 
-- [ ] 科目1题库 105-300  
-- *一天300题，刷两遍* 
-- 过年闲着蛋疼时刷
+
 
 
 ------------------------------------------------------------
