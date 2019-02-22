@@ -8,15 +8,15 @@
 ## 目录
 
 * [刷题：准备面试](#Interv)
-  * [cpp](#cpp overview)
-  * [sword to offer](#sword to offer)
-  * [CSAPP & Concurrent & Networking](#CSAPP & Concurrent & Networking)
+  * [cpp](#CPP_overview)
+  * [sword to offer](#sword2offer)
+  * [CSAPP & Concurrent & Networking](#later)
 * [阅读 & MOOC：补充工作知识](#learning)
   * [MOOC](#MOOC)
   * [参考学习资料](#参考学习资料)
 * [Project：提升能力](#Project)
-  * [Project Now](#Project Now)
-  * [do favor & project list](#do favor & project list)
+  * [Project Now](#Project_now)
+  * [do favor & project list](#Project_later)
 * [工作计划](#work)
   * [专利](专利)
   * [论文](论文)
@@ -24,17 +24,18 @@
 
 ## Interv 
 你需要：  
-### cpp overview
+### CPP_overview
 - [ ] cpp primer 快速结束
   
 step1: 结合[这个文档](https://github.com/huihut/interview)，列一个问题清单  
 step2: 找到问题对应的知识点和关键词，在cpp primer中进行深化  
 step3: 回顾问题清单，复习总结  
 
-### sword to offer
+### sword2offer
 [1-68](sword2offer)
 
-### CSAPP & Concurrent & Networking
+### Later
+CSAPP concurrent networking
 先刷完sword2offer再分解
 
 
@@ -53,17 +54,17 @@ coursera self-driving
 more to see [参考资料](#参考资料)
 
 ## Project
-### Project Now
+### Project_now
 OOD
 
-### do favor & project list
+### Project_List
 - [ ] CFD! [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)  
 - computer graphics  
 - and learn more  
 
 
 
-## work
+## Work
 - [ ] 科目1题库 105-300  
 - *一天300题，刷两遍* 
 - 过年闲着蛋疼时刷
