@@ -5,15 +5,14 @@
 
 ---------------------------------------------------
 ## 目录
-- **TO DO list**
-- [work](#work)
-- [Interv](#Interv)
-- [learning](#learning)
-- **参考资料**
+
+- [刷题：准备面试](#Interv)
+- [阅读 & MOOC：补充工作知识](#work)
+- [Project：提升能力](learning)
 
 
 # TO DO list
-## Interv
+## Interv 
 你需要：  
 - cpp overview
 - sword to offer
