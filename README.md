@@ -1,3 +1,5 @@
+Multiplexed Networks for Embedded Systems - CAN, LIN, Flexray, Safe-by-Wire
+
 > 重视Project。make your hands dirty. you could learning more by doing more practice.  
 
 > 批判思考自己能力与知识的局限性 Independent does not mean alone. Independent means taking ownership to think critically, recognize when you need help, and seek it out.
