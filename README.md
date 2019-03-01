@@ -7,7 +7,7 @@
 ---------------------------------------------------
 ## 目录
 
-* [刷题：准备面试](#Interv)
+* [刷题：interv](#Interv)
   * [cpp](#CPP_overview)
   * [sword to offer](#sword2offer)
   * [CSAPP & Concurrent & Networking](#later)
