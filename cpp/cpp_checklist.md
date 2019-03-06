@@ -36,16 +36,29 @@
 
 
 ### 内存分配与管理
-
-### 智能指针
-
-### 类型转换
+ -  如何申请到一大块内存（Linux）
+ -  `malloc, calloc, realloc, alloca`区别
+ -  `malloc free`与`new delete`的用法，例如多维数组
+ -  扩展问题：
+     -  可以`delete this`指针吗？
+     -  如何定义一个只能在堆（or 栈）生成对象的类？
 
 ### STL
+-  常用的容器有哪些操作形式？比如vector，list
+
 
 ### 多线程
 
 ### 设计模式
+-  用过、看过那些设计模式的代码？手写一个看看？
+
+### 智能指针
+ -  `shared_ptr, unique_ptr, weak_ptr`的作用，用法 ？
+ 
+### 类型转换
+-  知道有哪些强制类型转换运算符？怎么用的？（`static_cast, dynamic_cast, const_cast, reinterpret_cast, bad_cast`)
+-  什么是运行时类型信息(RTTI)? `typeid, type_info`的作用和使用？
+
 
 ### 链接装载库
 
