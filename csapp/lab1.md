@@ -48,7 +48,7 @@ int allOddBits(int x) {
 *   Rating: 3
 */
 int isAsciiDigit(int x) {
-	return (!((x+~0x30+1)>>31)) & ((x+~0x39+1)>>31);
+	return (!((x+~0x30+1)>>31)) & ((x+~0x3a+1)>>31);
 }
 
 
