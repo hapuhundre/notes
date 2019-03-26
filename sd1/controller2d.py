@@ -7,6 +7,30 @@
 import cutils
 import numpy as np
 
+def normalize_angle(angle):
+    """
+    Normalize an angle to [-pi, pi].
+    """
+    while angle > np.pi:
+        angle -= 2.0 * np.pi
+
+    while angle < -np.pi:
+        angle += 2.0 * np.pi
+
+    return angle
+
+def dist(p1, p2, p):
+    """
+    the distance of a point to a line
+    """
+    if p1[0] == p2[0]:
+        return p[0]-p1[0]
+    A = (p1[1]-p2[1]) / (p1[0]-p2[0])
+    B = -1
+    C = ( p2[1]*(p1[0]+p2[0]) - p2[0]*(p2[1]+p1[0]) ) / (p1[0]-p2[0])
+    return (A*p[0]+B*p[1]+C) / np.sqrt(A*A+B*B)
+
+
 class Controller2D(object):
     def __init__(self, waypoints):
         self.vars                = cutils.CUtils()
@@ -173,7 +197,9 @@ class Controller2D(object):
             # q1: 定义cte  cte = v_desire - v
             # q2: 引用waypoints  waypoints[-3]
             # q3: diff_cte = (cte - prev_cte)/ delta_t  如何定义delta_t?
+            
             cte = v_desired - v
+            
             self.vars.int_cte += cte
             diff_cte = (cte - self.vars.prev_cte) / (t-self.vars.last_t)
             
@@ -183,6 +209,7 @@ class Controller2D(object):
 
             throttle_output = kp*cte + kd*diff_cte + ki*self.vars.int_cte
             self.vars.prev_cte = cte
+            self.vars.last_t = t
 
             ######################################################
             ######################################################
@@ -196,8 +223,20 @@ class Controller2D(object):
             """
             
             # Change the steer output with the lateral controller. 
-            steer_output = 0
+            # try stanley control
 
+            # steer to headding error
+            x_desired = waypoints[-3][0]
+            y_desired = waypoints[-3][0]
+            cyaw = np.arctan( (y_desired-y) / (x_desired-x) )
+            theta_e = normalize_angle(cyaw - yaw)
+            
+            # steer to crosstrack error
+            e = dist(waypoints[-3],waypoints[-4],[x,y])
+            k = 0.5
+            theta_a = np.arctan(k*e / v)
+
+            steer_output = theta_e + theta_a
             ######################################################
             # SET CONTROLS OUTPUT
             ######################################################
@@ -216,5 +255,4 @@ class Controller2D(object):
             in the next iteration)
         """
         self.vars.v_previous = v  # Store forward speed to be used in next step
-        
         
