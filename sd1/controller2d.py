@@ -27,7 +27,7 @@ def cal_yaw_line(pts):
         return None
     return np.arctan2((pts[0][1]-pts[-1][1]), (pts[0][0]-pts[-1][1]))
 
-def calc_error_axle(fx, fy, yaw, cx, cy):
+def calc_error_axle(fx, fy, yaw, wp):
     """
     Compute index in the trajectory list of the target.
     """
