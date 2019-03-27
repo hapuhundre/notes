@@ -19,16 +19,30 @@ def normalize_angle(angle):
 
     return angle
 
-def dist(p1, p2, p):
+def cal_yaw_line(pts):
     """
-    the distance of a point to a line
+    Calculate the 
     """
-    if p1[0] == p2[0]:
-        return p[0]-p1[0]
-    A = (p1[1]-p2[1]) / (p1[0]-p2[0])
-    B = -1
-    C = ( p2[1]*(p1[0]+p2[0]) - p2[0]*(p2[1]+p1[0]) ) / (p1[0]-p2[0])
-    return (A*p[0]+B*p[1]+C) / np.sqrt(A*A+B*B)
+    if len(pts) < 2:
+        return None
+    return np.arctan2((pts[0][1]-pts[-1][1]), (pts[0][0]-pts[-1][1]))
+
+def calc_error_axle(fx, fy, yaw, cx, cy):
+    """
+    Compute index in the trajectory list of the target.
+    """
+    # Search nearest point index
+    dx = [fx - icx for icx in wp[:][0]]
+    dy = [fy - icy for icy in wp[:][1]]
+    d = [np.sqrt(idx ** 2 + idy ** 2) for (idx, idy) in zip(dx, dy)]
+    error_front_axle = min(d)
+    target_idx = d.index(error_front_axle)
+
+    target_yaw = normalize_angle(np.arctan2(
+        fy - wp[target_idx][1], fx - wp[target_idx][0]) - yaw)
+    if target_yaw > 0.0:
+        error_front_axle = - error_front_axle
+    return error_front_axle
 
 
 class Controller2D(object):
@@ -224,19 +238,17 @@ class Controller2D(object):
             
             # Change the steer output with the lateral controller. 
             # try stanley control
-
+            # calculate yaw of line
+            cyaw = cal_yaw_line(waypoints[-5:-1])
             # steer to headding error
-            x_desired = waypoints[-3][0]
-            y_desired = waypoints[-3][0]
-            cyaw = np.arctan( (y_desired-y) / (x_desired-x) )
-            theta_e = normalize_angle(cyaw - yaw)
+            theta_h = normalize_angle(cyaw - yaw)
             
             # steer to crosstrack error
-            e = dist(waypoints[-3],waypoints[-4],[x,y])
             k = 0.5
-            theta_a = np.arctan(k*e / v)
+            error_front_axle = calc_error_axle(x,y,yaw,waypoints[-10:-1])
+            theta_c = np.arctan2(k * error_front_axle, v)
 
-            steer_output = theta_e + theta_a
+            steer_output = theta_h + theta_c
             ######################################################
             # SET CONTROLS OUTPUT
             ######################################################
