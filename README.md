@@ -58,7 +58,7 @@ more to see [参考资料](#参考资料)
 OOD
 
 ### Project_List
-- [ ] CFD! [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)  
+- [ ] [rendering course on Mac~](https://github.com/ssloy/tinyrenderer/wiki)  
 - computer graphics  
 - and learn more  
 
