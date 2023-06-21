@@ -1,2 +1,1 @@
-my notes
-
+my notes about learning & thinking.
