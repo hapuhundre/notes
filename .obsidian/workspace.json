@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cc134a666b0ae75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "parenting.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "parenting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "parenting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "parenting.md"
               }
             }
           }
@@ -160,7 +148,19 @@
   },
   "active": "d5c32963c2c5cea8",
   "lastOpenFiles": [
+    "modeling.png",
     "parenting.md",
+    "antecedents.png",
+    "shaping.png",
+    "image-20231106222535182.png",
+    "屏幕截图_20230210_232848.png",
+    "typora-icon2.png",
+    "typora-icon.png",
+    "positive_opposite.png",
+    "image-20231106222522028.png",
+    "image-20231106221028241.png",
+    "cpp.pptx",
+    "016075.pdf",
     "README.md"
   ]
 }
