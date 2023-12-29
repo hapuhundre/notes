@@ -11,11 +11,9 @@
             "id": "d5c32963c2c5cea8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "parenting.md",
-                "mode": "source",
-                "source": false
+                "file": "image-20231106215358035.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parenting.md",
+                "file": "image-20231106215358035.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parenting.md",
+                "file": "image-20231106215358035.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parenting.md"
+                "file": "image-20231106215358035.png"
               }
             }
           }
@@ -148,17 +146,36 @@
   },
   "active": "d5c32963c2c5cea8",
   "lastOpenFiles": [
-    "modeling.png",
-    "parenting.md",
-    "antecedents.png",
-    "shaping.png",
-    "image-20231106222535182.png",
-    "屏幕截图_20230210_232848.png",
-    "typora-icon2.png",
-    "typora-icon.png",
-    "positive_opposite.png",
-    "image-20231106222522028.png",
     "image-20231106221028241.png",
+    "image-20231106215358035.png",
+    "image-20231106222522028.png",
+    "image-20231106222535182.png",
+    "parenting.md",
+    "klayout_notes.md",
+    "cuda notes/spmv.png",
+    "cuda notes/memory_model.png",
+    "cuda notes/hillis_steele_scan.PNG",
+    "cuda notes/cuda notes.md",
+    "cuda notes/coalesce.png",
+    "cuda notes/blelloch.png",
+    "cuda notes",
+    "姜雅南语录.md",
+    "侯捷 cpp notes.md",
+    "template metaprogramming of cpp.md",
+    "slice_output.png",
+    "positive living.md",
+    "os notes.md",
+    "memory_block.png",
+    "ics-pa.md",
+    "go tour notes.md",
+    "github_token.md",
+    "functional cpp.md",
+    "cpp_read.md",
+    "concurrency_notes.md",
+    "interview/st.md",
+    "interview/itv checklist.md",
+    "interview",
+    "imgs",
     "cpp.pptx",
     "016075.pdf",
     "README.md"
