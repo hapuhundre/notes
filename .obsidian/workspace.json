@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4ba24c87d2deb7c7",
+        "id": "2bc0b528f7285b67",
         "type": "tabs",
         "children": [
           {
-            "id": "d5c32963c2c5cea8",
+            "id": "6aa7419f23a39c52",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image-20231106215358035.png"
+                "file": "parenting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1125e217bc20a5c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parenting.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "image-20231106215358035.png",
+                "file": "parenting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "image-20231106215358035.png",
+                "file": "parenting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "image-20231106215358035.png"
+                "file": "parenting.md"
               }
             }
           }
@@ -144,40 +159,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d5c32963c2c5cea8",
+  "active": "1125e217bc20a5c4",
   "lastOpenFiles": [
-    "image-20231106221028241.png",
-    "image-20231106215358035.png",
-    "image-20231106222522028.png",
-    "image-20231106222535182.png",
-    "parenting.md",
-    "klayout_notes.md",
-    "cuda notes/spmv.png",
-    "cuda notes/memory_model.png",
-    "cuda notes/hillis_steele_scan.PNG",
-    "cuda notes/cuda notes.md",
-    "cuda notes/coalesce.png",
-    "cuda notes/blelloch.png",
-    "cuda notes",
-    "姜雅南语录.md",
-    "侯捷 cpp notes.md",
     "template metaprogramming of cpp.md",
+    "姜雅南语录.md",
+    "image-20231106221028241.png",
+    "侯捷 cpp notes.md",
     "slice_output.png",
     "positive living.md",
     "os notes.md",
     "memory_block.png",
+    "interview/捕获.PNG",
+    "interview/st.md",
+    "interview/ll2.png",
+    "interview/ll1.png",
+    "interview/itv checklist.md",
+    "interview",
+    "imgs/simulation.png",
+    "imgs/shaping.png",
+    "imgs/positive_opposite.png",
+    "imgs/modeling.png",
+    "imgs",
     "ics-pa.md",
     "go tour notes.md",
     "github_token.md",
     "functional cpp.md",
+    "cuda notes/cuda notes.md",
+    "cuda notes",
     "cpp_read.md",
     "concurrency_notes.md",
-    "interview/st.md",
-    "interview/itv checklist.md",
-    "interview",
-    "imgs",
-    "cpp.pptx",
+    "for work.md",
+    "parenting.md",
+    "README.md",
     "016075.pdf",
-    "README.md"
+    "cpp.pptx"
   ]
 }
